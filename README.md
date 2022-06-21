@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I am AABIDI Hassan!</h1
 
 - 👨‍🎓 I’m currently a Software Engineering student.
-- 👨‍💼I’m currently a Software Developer at MSOFTSOLUTION.
 - 👨‍💻 I’m majority working with Java, PHP & JavaScript.
 - 👯 I use Spring, Laravel, Angular & React to make my projects.
 - 📫 How to reach me: aabidihassan2@gmail.com .
