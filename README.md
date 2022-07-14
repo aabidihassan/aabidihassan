@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I’m currently a Software Engineering student.
 - 👨‍💻 I’m majority working with Java, PHP & JavaScript.
-- 👯 I use Spring, Laravel, Angular & React to make my projects.
+- 👯 I use Spring, Laravel & Angular to make my projects.
 - 📫 How to reach me: aabidihassan2@gmail.com .
 - 💬 Ask me about anything!
 
