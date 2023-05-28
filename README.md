@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I am AABIDI Hassan!</h1
 
-- 👨‍🎓 I’m currently a Software Engineering student.
+- 👨‍🎓 I’m currently a Software Engineer.
 - 👨‍💻 I’m majority working with Java, PHP & JavaScript.
 - 👯 I use Spring, Laravel & Angular to make my projects.
 - 📫 How to reach me: aabidihassan2@gmail.com .
